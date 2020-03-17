@@ -34,7 +34,6 @@ const PrivateRoute = ({ component: Component, ...rest }) => (
         }
     />
 );
-
 class App extends Component {
     render() {
         return (
@@ -59,5 +58,4 @@ class App extends Component {
         );
     }
 }
-
 export default App;
