@@ -15,7 +15,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
     "google-map-react": "^1.1.6",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "material-ui": "^0.20.2",
     "react": "^16.12.0",
